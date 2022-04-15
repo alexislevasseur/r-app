@@ -1,3 +1,5 @@
+# r-app
+
 # Getting Started with Serverless Stack (SST)
 
 This project was bootstrapped with [Create Serverless Stack](https://docs.serverless-stack.com/packages/create-serverless-stack).
@@ -43,4 +45,3 @@ Learn more about the Serverless Stack.
 ## Community
 
 [Follow us on Twitter](https://twitter.com/ServerlessStack) or [post on our forums](https://discourse.serverless-stack.com).
-"# r-app" 
